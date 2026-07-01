@@ -1,0 +1,30 @@
+{
+    "Candidate_ID": "C001",
+    "Name": "John Doe",
+    "Email": "john.doe@gmail.com",
+    "Phone": "+919876543210",
+    "Location": "Nagpur",
+    "Skills": [
+        "Python",
+        "Sql",
+        "Excel"
+    ],
+    "Experience": "3 Years",
+    "candidate_id": "C001",
+    "name": "John Doe",
+    "email": "john.doe@gmail.com",
+    "phone": "+91 9876543210",
+    "location": "Nagpur, Maharashtra",
+    "skills": [
+        "SQL",
+        "Python",
+        "Git",
+        "Excel",
+        "Machine Learning",
+        "Power BI"
+    ],
+    "experience": "3 Years",
+    "headline": "Data Analyst",
+    "username": "johndoe",
+    "profile": "https://github.com/johndoe"
+}

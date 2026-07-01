@@ -1,0 +1,11 @@
+{
+  "username": "johndoe",
+  "name": "John Doe",
+  "email": "john.doe@gmail.com",
+  "profile": "https://github.com/johndoe",
+  "skills": [
+    "Python",
+    "Git",
+    "SQL"
+  ]
+}

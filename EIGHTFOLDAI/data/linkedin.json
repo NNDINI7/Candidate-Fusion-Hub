@@ -1,0 +1,14 @@
+{
+  "name": "Johnathan Doe",
+  "headline": "Data Analyst",
+  "email": "john.doe@gmail.com",
+  "phone": "98765-43210",
+  "location": "Nagpur",
+  "skills": [
+    "Python",
+    "SQL",
+    "Power BI",
+    "Excel"
+  ],
+  "experience": "3+ Years"
+}

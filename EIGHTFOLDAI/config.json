@@ -1,0 +1,17 @@
+{
+    "include_confidence": true,
+    "normalize_data": true,
+    "output_file": "output/candidate_profile.json",
+    "required_fields": [
+        "Name",
+        "Email",
+        "Phone",
+        "Skills"
+    ],
+    "source_priority": [
+        "recruiter",
+        "ats",
+        "linkedin",
+        "github"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+  "candidate_id": "C001",
+  "name": "John Doe",
+  "email": "john.doe@gmail.com",
+  "phone": "+91 9876543210",
+  "location": "Nagpur, Maharashtra",
+  "skills": [
+    "Python",
+    "Machine Learning",
+    "SQL"
+  ],
+  "experience": "3 Years"
+}

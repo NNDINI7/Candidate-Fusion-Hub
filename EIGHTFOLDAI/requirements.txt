@@ -1,0 +1,7 @@
+pandas==2.2.2
+pydantic==2.8.2
+jsonschema==4.23.0
+phonenumbers==8.13.40
+python-dateutil==2.9.0.post0
+rapidfuzz==3.9.6
+pytest==8.3.2
