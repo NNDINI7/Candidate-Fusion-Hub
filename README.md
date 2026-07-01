@@ -236,16 +236,6 @@ This project demonstrates practical implementation of:
 
 ---
 
-## 👩‍💻 Author
-
-**Nandini Giri**
-
-B.Tech (Artificial Intelligence & Machine Learning)
-
-Aspiring Data Analyst | Python Developer | AI & Data Analytics Enthusiast
-
----
-
 ## ⭐ Project Summary
 
 **Candidate Fusion Hub** is a lightweight and modular Python application designed to transform candidate information from multiple sources into a unified and standardized JSON profile. By combining extraction, normalization, merging, and validation into a single workflow, the project demonstrates a practical approach to solving real-world data integration challenges in recruitment systems.
